@@ -19,6 +19,7 @@ div 태그를 이용해 좌/우측, 상/하단 영역 분리 <br>
 - 좌측 상단 간단한 프로필 정보 표시
 - 좌측 하단 오늘의 기분 선택하여 표현 가능 ( select 태그 활용 )
 <br>
+
 ### 홈 탭
 ![Image](https://github.com/user-attachments/assets/9f83a1dd-8bd8-48c8-a8b0-7fccf553ffbe)
 
