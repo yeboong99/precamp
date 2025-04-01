@@ -55,7 +55,12 @@ div 태그를 이용해 좌/우측, 상/하단 영역 분리 <br>
 ## ✏️ 프로젝트를 통해 공부한 내용 - 아래 Velog에 상세 정리
 <details>
 <summary>Velog 링크</summary>
-[HTML, CSS, JS가 무엇인가?](https://velog.io/@yechani99/Springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-https-%EB%A1%9C%EC%BB%AC%EB%A1%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+[HTML, CSS, JS에 대하여](https://velog.io/@yechani99/HTML-CSS-JS%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+<br>
+[로컬 HTTPS 적용하기](https://velog.io/@yechani99/Springboot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-https-%EB%A1%9C%EC%BB%AC%EB%A1%9C-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
+<br>
+
 </details>
 ## 🙋 
 1. 왼쪽 공간에서 블로그에 글을 쓰는 것처럼 README를 작성해주세요!   
